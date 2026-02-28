@@ -1,8 +1,9 @@
 {
-  "name": "AGRO Mitra",
-  "description": "A farmer-friendly platform providing climate-aware crop recommendations, multilingual chatbot support, and crop health scanning.",
+  "name": "Remix: AGRO Mitra",
+  "description": "AGRO Mitra: A next-gen agricultural platform featuring live AI crop scanning, personalized AI advisory reports, and real-time climate-resilient insights for farmers.",
   "requestFramePermissions": [
     "camera",
-    "microphone"
+    "microphone",
+    "geolocation"
   ]
 }
