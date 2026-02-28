@@ -1,0 +1,8 @@
+{
+  "name": "AGRO Mitra",
+  "description": "A farmer-friendly platform providing climate-aware crop recommendations, multilingual chatbot support, and crop health scanning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
